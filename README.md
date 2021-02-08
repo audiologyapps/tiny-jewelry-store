@@ -28,6 +28,7 @@ the other as Privileged user in any xml file. Need not use any database for doin
 **Expectations:**
 - **You can use any kind of front end for accomplishing the task, which means front end can be replaceable.**
 - **Please use best practices, principles, patterns everywhere.**
+- **Please remember that the discount plan is not confined to only these, it is subjected to change anytime.**
 - **Share the complete solution via email.**
 
 **Below are the suggested screens for your reference (Feel free to adapt based on your frontend choice)**
