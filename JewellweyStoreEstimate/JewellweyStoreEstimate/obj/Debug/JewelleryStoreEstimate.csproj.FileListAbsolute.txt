@@ -1,0 +1,14 @@
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\bin\Debug\JewellweyStoreEstimate.exe.config
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\bin\Debug\JewellweyStoreEstimate.exe
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\bin\Debug\JewellweyStoreEstimate.pdb
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewelleryStoreEstimate.csprojAssemblyReference.cache
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewelleryStoreEstimate.csproj.CoreCompileInputs.cache
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewellweyStoreEstimate.exe
+C:\Users\monica.m\Documents\Visual Studio 2017\Projects\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewellweyStoreEstimate.pdb
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\bin\Debug\JewellweyStoreEstimate.exe.config
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\bin\Debug\JewellweyStoreEstimate.exe
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\bin\Debug\JewellweyStoreEstimate.pdb
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewelleryStoreEstimate.csprojAssemblyReference.cache
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewelleryStoreEstimate.csproj.CoreCompileInputs.cache
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewellweyStoreEstimate.exe
+C:\Users\monica.m\Downloads\SiemensProject\JewellweyStoreEstimate\JewellweyStoreEstimate\obj\Debug\JewellweyStoreEstimate.pdb
